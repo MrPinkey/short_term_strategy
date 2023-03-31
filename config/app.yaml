@@ -1,0 +1,11 @@
+server:
+  evn: "debug"
+  address: "127.0.0.1"
+  port: 8080
+
+db:
+  port: 3306
+  host: "localhost"
+  name: "stack_data"
+  user: "root"
+  password: "123456"
