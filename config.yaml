@@ -1,11 +1,11 @@
 server:
   evn: "debug"
   address: "127.0.0.1"
-  port: 8080
+  port: 8082
 
-db:
+mysql:
   port: 3306
-  host: "localhost"
-  name: "stack_data"
+  host: "127.0.0.1"
+  name: "stock_data"
   user: "root"
   password: "123456"
